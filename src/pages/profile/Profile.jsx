@@ -12,7 +12,7 @@ export default function Profile() {
       <div className="profile">
         <Sidebar />
         <div className="profileRight">
-          <div className="profileRightTop" id="sachin">
+          <div className="profileRightTop" >
             <div className="profileCover">
               <img
                 src="assets/post/3.jpeg"
